@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading_text">Loading…</string>
+    <string name="set_wallpaper_text">set wallpaper</string>
+    <string name="set_wallpaper">Обои успешно установлены!</string>
+    <string name="set_wallpaper_error">Обои не получилось установить!</string>
+
+</resources>
